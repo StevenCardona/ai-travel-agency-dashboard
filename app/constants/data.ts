@@ -57,7 +57,7 @@ export const dashboardStats_dummy = {
   },
 };
 
-const users_dummy = [
+export const users_dummy = [
   {
     id: 1,
     name: "John Doe",
